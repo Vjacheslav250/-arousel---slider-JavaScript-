@@ -160,31 +160,31 @@ p {
 }
 
 .slide:nth-of-type(1) {
-  background: url(assets/img/Dubaj.jpg);
+  background: url(../img/Dubaj.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .slide:nth-of-type(2) {
-  background: url(assets/img/London.jpg);
+  background: url(../img/London.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .slide:nth-of-type(3) {
-  background: url(assets/img/cape-town.png);
+  background: url(../img/cape-town.png);
   background-position: center;
   background-size: cover;
 }
 
 .slide:nth-of-type(4) {
-  background: url(assets/img/Praga.jpg);
+  background: url(../img/Praga.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .slide:nth-of-type(5) {
-  background: url(assets/img/Sydney.jpg);
+  background: url(../img/Sydney.jpg);
   background-position: center;
   background-size: cover;
 }
